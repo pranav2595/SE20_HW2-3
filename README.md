@@ -12,3 +12,6 @@ GOL is in a 2D square grid, where each cell has two possible states: live or dea
 - Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
 For more details refer to [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+
+## How to Run
+You can run our code on [Repl.it](https://repl.it)
