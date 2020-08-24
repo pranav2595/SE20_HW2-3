@@ -14,4 +14,4 @@ GOL is in a 2D square grid, where each cell has two possible states: live or dea
 For more details refer to [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 ## How to Run
-You can run our code on [Repl.it](https://repl.it)
+You can run our code on [Repl.it](https://repl.it/github/pranav2595/SE20_HW2-3). Repl now supports importing repos from Github! 
