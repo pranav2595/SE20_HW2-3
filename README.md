@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/289756633.svg)](https://zenodo.org/badge/latestdoi/289756633)
 
+[![Build Status](https://travis-ci.org/pranav2595/SE20_HW2-3.svg?branch=master)](https://travis-ci.org/pranav2595/SE20_HW2-3)
+
 [![Run on Repl.it](https://repl.it/badge/github/pranav2595/SE20_HW2-3)](https://repl.it/github/pranav2595/SE20_HW2-3)
 
 # SE20_HW2-3
