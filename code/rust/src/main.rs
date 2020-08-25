@@ -61,7 +61,7 @@ fn life(init: Vec<Cell>, iterations: i32, width: i32, height: i32) {
         print_colony(&col, width, height);
         sleep(Duration::from_millis(100));
         // Clearing the console
-        //print!("\x1B[2J\x1B[1;1H");
+        print!("\x1B[2J\x1B[1;1H");
     }
 }
  
