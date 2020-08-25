@@ -1,8 +1,14 @@
-[![DOI](https://zenodo.org/badge/289756633.svg)](https://zenodo.org/badge/latestdoi/289756633)
-
-[![Build Status](https://travis-ci.org/pranav2595/SE20_HW2-3.svg?branch=master)](https://travis-ci.org/pranav2595/SE20_HW2-3)
-
-[![Run on Repl.it](https://repl.it/badge/github/pranav2595/SE20_HW2-3)](https://repl.it/github/pranav2595/SE20_HW2-3)
+<p align="center">
+  <a href="https://zenodo.org/badge/latestdoi/289756633">
+        <img src="https://zenodo.org/badge/289756633.svg"
+            alt="commits to be deployed"></a>
+  <a href="https://travis-ci.org/github/pranav2595/SE20_HW2-3">
+        <img src="https://travis-ci.org/pranav2595/SE20_HW2-3.svg?branch=master"
+            alt="commits to be deployed"></a>
+  <a href="https://repl.it/github/pranav2595/SE20_HW2-3">
+        <img src="https://repl.it/badge/github/pranav2595/SE20_HW2-3"
+            alt="commits to be deployed"></a>
+  </p>
 
 # SE20_HW2-3
 
