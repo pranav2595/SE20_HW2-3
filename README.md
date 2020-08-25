@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/289756633.svg)](https://zenodo.org/badge/latestdoi/289756633)
 
+[![Run on Repl.it](https://repl.it/badge/github/pranav2595/SE20_HW2-3)](https://repl.it/github/pranav2595/SE20_HW2-3)
+
 # SE20_HW2-3
 
 This repo has been created for HW2 and HW3 of SE 2020. We implemented [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in [Ruby](https://www.ruby-lang.org/en/), [Rust](https://www.rust-lang.org) and [Go](https://golang.org) with some minor bugs in it. The purpose of this repo is to rank different programming languages in the order of how easy (or hard) it is to debug the code. 
