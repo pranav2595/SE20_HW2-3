@@ -1,2 +1,2 @@
 language = "rust"
-run = "cd code/rust ; cargo run"
+run = "cd code/rust/rustwithbug ; cargo run"
