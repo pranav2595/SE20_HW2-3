@@ -19,8 +19,7 @@ Rust link: https://repl.it/repls/PinkUniformDaemons#code/rust/rustwithbug/src/ma
 Go link: https://repl.it/repls/RareSelfishDatabases#code/golang/game_error.go
 
 Ruby link: https://repl.it/repls/DarkseagreenOptimalRobodoc#code/ruby/game_bugs.rb
-
-So without further ado, jump right into this small questionnaire - 
+ 
 
 ## Conway's Game of Life Rules
 GOL is in a 2D square grid, where each cell has two possible states: live or dead. We will be assigned 1 as live cell, and 0 as dead cell. Every cell interacts with its [8 neighboring cells](https://en.wikipedia.org/wiki/Moore_neighborhood) by the following rules: 
