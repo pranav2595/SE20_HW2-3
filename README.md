@@ -14,6 +14,12 @@
 
 This repo has been created for HW2 and HW3 of SE 2020. We implemented [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in [Ruby](https://www.ruby-lang.org/en/), [Rust](https://www.rust-lang.org) and [Go](https://golang.org) with some minor bugs in it. The purpose of this repo is to rank different programming languages in the order of how easy (or hard) it is to debug the code. 
 
+Rust link: https://repl.it/repls/PinkUniformDaemons#code/rust/rustwithbug/src/main.rs
+Go link: https://repl.it/repls/RareSelfishDatabases#code/golang/game_error.go
+Ruby link: https://repl.it/repls/DarkseagreenOptimalRobodoc#code/ruby/game_bugs.rb
+
+So without further ado, jump right into this small questionnaire - 
+
 ## Conway's Game of Life Rules
 GOL is in a 2D square grid, where each cell has two possible states: live or dead. We will be assigned 1 as live cell, and 0 as dead cell. Every cell interacts with its [8 neighboring cells](https://en.wikipedia.org/wiki/Moore_neighborhood) by the following rules: 
 - Any live cell with fewer than two live neighbours dies, as if by underpopulation.
