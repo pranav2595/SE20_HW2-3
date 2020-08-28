@@ -34,3 +34,5 @@ Rust link: https://repl.it/repls/PinkUniformDaemons#code/rust/rustwithbug/src/ma
 Go link: https://repl.it/repls/RareSelfishDatabases#code/golang/game_error.go
 
 Ruby link: https://repl.it/repls/DarkseagreenOptimalRobodoc#code/ruby/game_bugs.rb
+
+Google Form: https://forms.gle/FL5dNicEEe5wx2zVA 
