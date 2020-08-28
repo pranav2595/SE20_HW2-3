@@ -44,14 +44,14 @@ fn generation(col: Alives) -> Alives {
         .filter_map(|(cell, cnt)|
             match (cnt, col.contains(&cell)) {
                 (2, true) |
-                (3, false) => Some(cell),
+                (3, ..) => Some(cell),
                 _ => Some(cell)
             })
         .collect()
 }
 
-fn life(init: Vec<Cell>, iterations: i32, width: i32, height: i32) {
-    let mut col: Alives = init.into_iter().collect();
+fn life(init: Vec<Cell>, iterations: i16, width: i16, height: i16) {
+    let mut col: Alives = init.into_iter().collect()
     for i in 0..iterations+1
     {
         println!("({})", &i);
@@ -80,8 +80,8 @@ fn main() {
 
     ];
     // life(shape1,1,20,20);
-    life(shape1, 190, 30, 30);
-    life(shape2, 190, 30, 30);
+    life(shape1, 70, 30, 30);
+    life(shape2, 70, 30, 30);
 
 
 }
