@@ -52,7 +52,12 @@ The experiment was conducted with the help of:
 
 
 ## Conclusion
-Part of HW3.
+
+1. Out of the three languages Rust was the most difficult to debug and less intuitive.
+2. Go turned out to be far more intuitive and similar to languages which participants were familiar with.
+3. From the data gathered we got to know that most of the participants were hardlyfamiliar with any of the languages which we chose.
+4. Participants found code of quality to be good and intuitive.
+5. Most of the participants were more familiar with Ruby than Go or Rust.
 
 ## Threats to Validity
 The following were observed to be change points for the next testing and validation runs:
