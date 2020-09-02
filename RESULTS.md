@@ -16,7 +16,40 @@ The experiment was conducted with the help of:
 3. Google Sheet: Observations from our side with respect to each participant.
 
 ## Observations
-Part of HW3.
+
+### GoLang
+<table border="2"><tr>
+<td> <img align=center src="https://github.com/pranav2595/SE20_HW2-3/blob/master/images/Go_familiarity.png" width="700"></td>
+</tr>
+   <tr>
+<td> <img align=center src="https://github.com/pranav2595/SE20_HW2-3/blob/master/images/Go_quality.png" width="700"></td>
+   </tr>
+</table>
+
+### Rust
+<table border="2"><tr>
+<td> <img align=center src="https://github.com/pranav2595/SE20_HW2-3/blob/master/images/Rust_familiarity.png" width="700"></td>
+</tr>
+   <tr>
+<td> <img align=center src="https://github.com/pranav2595/SE20_HW2-3/blob/master/images/Rust_quality.png" width="700"></td>
+   </tr>
+      <tr>
+<td> <img align=center src="https://github.com/pranav2595/SE20_HW2-3/blob/master/images/rust_ease.png" width="700"></td>
+   </tr>
+</table>
+
+### Ruby
+<table border="2"><tr>
+<td> <img align=center src="https://github.com/pranav2595/SE20_HW2-3/blob/master/images/Ruby_familiarity.png" width="700"></td>
+</tr>
+   <tr>
+<td> <img align=center src="https://github.com/pranav2595/SE20_HW2-3/blob/master/images/Ruby_quality.png" width="700"></td>
+   </tr>
+      <tr>
+<td> <img align=center src="https://github.com/pranav2595/SE20_HW2-3/blob/master/images/ruby_ease.png" width="700"></td>
+   </tr>
+</table>
+
 
 ## Conclusion
 Part of HW3.
