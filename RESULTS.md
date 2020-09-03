@@ -24,6 +24,9 @@ The experiment was conducted with the help of:
    <tr>
 <td> <img align=center src="https://github.com/pranav2595/SE20_HW2-3/blob/master/images/Go_quality.png" width="700"></td>
    </tr>
+      <tr>
+<td> <img align=center src="https://github.com/pranav2595/SE20_HW2-3/blob/master/images/go_ease.png" width="700"></td>
+   </tr>
 </table>
 
 ### Rust
